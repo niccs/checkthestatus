@@ -43,6 +43,10 @@ Hardware SetUp:--
 
 > - 	DHT22  Humidity and temperature sensor
 > - 	Gas leakage Sensor/smoke Sensor(MQ2)
-> - 	Door Sensor (borrowed from a printer)
+> - 	Door Sensor (borrowed from a printer, a switch)
+>-    Panic Button(a switch)
 > - 	Led light
 > - 	CPU fan(12 V) 
+
+<b> Hardware Schematic</b>
+![Scematic](https://github.com/niccs/checkthestatus/blob/master/Arduino/HomeCheckBotSchematic.PNG)
