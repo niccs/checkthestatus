@@ -48,5 +48,8 @@ Hardware SetUp:--
 > - 	Led light
 > - 	CPU fan(12 V) 
 
+
 <b> Hardware Schematic</b>
+
+
 ![Scematic](https://github.com/niccs/checkthestatus/blob/master/Arduino/HomeCheckBotSchematic.PNG)
