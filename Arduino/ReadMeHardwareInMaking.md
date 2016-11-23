@@ -74,3 +74,26 @@
 
 23. Testing Porch Light
 ![TestingPorchLight](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/23.TestingPorchLight.png)
+
+
+24. Final Wiring Looks
+![FinalWiringLooks](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/24.FinalWiringLooks.png)
+
+
+25. For Final Make Over
+![ForFinalMakeOver](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/25.ForFinalMakeOver.png)
+
+
+26. All Setttttt
+![AllSet](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/26.%20AllSet.jpg)
+
+
+27. Yepii Winners
+![YepiiWinners](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/27.%20YepiiWinners.jpg)
+
+
+
+
+
+
+
