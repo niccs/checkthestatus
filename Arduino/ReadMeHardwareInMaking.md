@@ -1,10 +1,15 @@
 
 <b> Hardware In Making</b>
 
-GPRSShieldsAndUNO Order
+Unpacking GPRS Shield
 
-![Process flow](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/1.GPRSShieldsAndUNOs.jpg)
+![GPRS](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/1.UnpackingGPRSShield.png)
 
 
-GPRS Shield
-![GPRS Shield](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/2.GPRS_SHIELD.jpg)
+UNO + GPRS Shield Interaction
+![GPRS + UNO](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/2.UNO%2BGPRSShieldInaction.png)
+
+Checking Serial out for HTTP Connection
+![GPRS + UNO](https://github.com/niccs/checkthestatus/blob/master/Arduino/HardwareInMaking/3.CheckingSerialOut%20For%20HTTPConnection.png)
+
+
